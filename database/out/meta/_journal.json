@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1714687563042,
+      "tag": "0000_tiny_karen_page",
+      "breakpoints": true
+    }
+  ]
+}
